@@ -1,0 +1,1 @@
+Solutions to challenges from Codewars.com, Codility.com, Hackerrank.com
