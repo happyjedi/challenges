@@ -25,6 +25,7 @@ DEPENDENCIES
   byebug
   rake
   rspec
+  rspec-expectations
 
 RUBY VERSION
    ruby 2.4.1p111
