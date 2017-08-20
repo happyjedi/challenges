@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../../Codility/lesson3-1-perm_missing_elem'
+require_relative "../../Codility/#{File.basename(__FILE__).gsub(/\_spec.rb$/, '')}"
 
 describe 'solution' do
   context "when given array with missed element 4" do

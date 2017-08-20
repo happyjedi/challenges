@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../../Codility/lesson1-1-binary_gap'
+require_relative "../../Codility/#{File.basename(__FILE__).gsub(/\_spec.rb$/, '')}"
 
 describe 'solution' do
   context "when 1 is at the start and end" do

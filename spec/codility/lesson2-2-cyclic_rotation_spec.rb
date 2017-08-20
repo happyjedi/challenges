@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../../Codility/lesson2-2-cyclic_rotation'
+require_relative "../../Codility/#{File.basename(__FILE__).gsub(/\_spec.rb$/, '')}"
 
 describe 'solution' do
   context "when produced 1 rotation" do

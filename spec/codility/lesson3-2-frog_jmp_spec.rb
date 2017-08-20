@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../../Codility/lesson3-2-frog_jmp'
+require_relative "../../Codility/#{File.basename(__FILE__).gsub(/\_spec.rb$/, '')}"
 
 describe 'solution' do
   context "when the needed 3 jumps" do
